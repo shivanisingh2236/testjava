@@ -19,5 +19,9 @@
   <p>
     Restarting todays work, Commit 2 . TODAYS dATE: 25/01/2023
   </p>
+  <p>
+    Commit 3 . TODAYS dATE: 25/01/2023
+    Sending artifacts to Ansible and from Ansible to Tomcat
+  </p>
 </body>
 </html>
