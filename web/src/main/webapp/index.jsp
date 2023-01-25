@@ -21,7 +21,7 @@
   </p>
   <p>
     Commit 3 . TODAYS dATE: 25/01/2023
-    Sending artifacts to Ansible and from Ansible to Tomcat
+    Commit 4 . Sending artifacts to Ansible and from Ansible to Tomcat Successfully.
   </p>
 </body>
 </html>
